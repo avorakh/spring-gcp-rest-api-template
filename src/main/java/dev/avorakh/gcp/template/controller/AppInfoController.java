@@ -1,7 +1,7 @@
-package dev.avorakh.isdp.template.controller;
+package dev.avorakh.gcp.template.controller;
 
-import dev.avorakh.isdp.template.resource.AppInfoMeta;
-import dev.avorakh.isdp.template.svc.AppInfoService;
+import dev.avorakh.gcp.template.resource.AppInfoMeta;
+import dev.avorakh.gcp.template.svc.AppInfoService;
 import lombok.AccessLevel;
 import lombok.RequiredArgsConstructor;
 import lombok.experimental.FieldDefaults;

@@ -1,6 +1,6 @@
-package dev.avorakh.isdp.template.svc;
+package dev.avorakh.gcp.template.svc;
 
-import dev.avorakh.isdp.template.resource.AppInfoMeta;
+import dev.avorakh.gcp.template.resource.AppInfoMeta;
 import org.springframework.stereotype.Service;
 
 @Service

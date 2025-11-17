@@ -1,4 +1,4 @@
-package dev.avorakh.isdp.template;
+package dev.avorakh.gcp.template;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

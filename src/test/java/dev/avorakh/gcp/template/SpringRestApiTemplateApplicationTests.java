@@ -1,4 +1,4 @@
-package dev.avorakh.isdp.template;
+package dev.avorakh.gcp.template;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

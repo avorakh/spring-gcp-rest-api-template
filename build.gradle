@@ -24,7 +24,11 @@ repositories {
 
 dependencies {
     implementation platform(SpringBootPlugin.BOM_COORDINATES)
+    implementation platform(libs.spring.cloud.dependencies)
+    implementation platform(libs.spring.cloud.gcp.dependencies)
+
     implementation 'org.springframework.boot:spring-boot-starter-web'
+    implementation 'com.google.cloud:spring-cloud-gcp-starter'
 
     developmentOnly libs.spring.boot.devtools
 
